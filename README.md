@@ -2,7 +2,7 @@
 
 ## GitHub Stats
 
-![Mikkels GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikkel-dev&show_icons=true&theme=tokyonight)
+![Mikkels GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikkelytting&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkel-dev&layout=compact&theme=tokyonight)
 
