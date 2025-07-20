@@ -8,5 +8,5 @@
 ## 🚀 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=MikkelYtting&theme=blood-dark&exclude_days=Fri)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MikkelYtting&theme=tokyonight&title=Commits,Repositories,Contributions,FirstCommit)](https://github.com/ryo-ma/github-profile-trophy)
+
 
